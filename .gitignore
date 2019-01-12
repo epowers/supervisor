@@ -16,3 +16,5 @@ tmp/
 coverage.xml
 nosetests.xml
 .idea
+/supervisord.zip
+*.log
